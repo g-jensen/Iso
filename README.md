@@ -1,4 +1,4 @@
-# IsometricEngine
+# Iso
 
 # compile & run
 ```
